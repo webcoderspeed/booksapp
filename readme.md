@@ -28,4 +28,4 @@
       JWT_SECRET = mysecret
 
 > Then run the application using the command
-> npm server
+> npm run server
